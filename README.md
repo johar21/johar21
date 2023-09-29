@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johar21&label=Profile%20views&color=0e75b6&style=flat" alt="johar21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johar21" alt="johar21" /></a> </p>
+
 
 - 💬 Ask me about **Airflow|MicrosoftAzure|Snowflake❄️|Databricks|ConfluentKafka Apache Spark|Big Data|AWS Snowpipe|HBase|Hadoop|Hive|Scala Oozie|Delta Lake**
 
